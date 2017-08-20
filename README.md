@@ -32,6 +32,9 @@ Sample Usage
         // Create your image
         ClickableAreasImage clickableAreasImage = new ClickableAreasImage(image, this);
 
+	// set enable zoom by two finger or double tap
+	clickableAreasImage.setEnableScalePicture(true);
+
         // Define your clickable area (pixel values: x coordinate, y coordinate, width, height) and assign an object to it
         List<ClickableArea> clickableAreas = getClickableAreas();
         clickableAreasImage.setClickableAreas(clickableAreas);
