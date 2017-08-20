@@ -1,6 +1,8 @@
 # AreasImage-PhotoView
 An android library that lets you define rectangular clickable areas in your images.
 
+[![](https://jitpack.io/v/hantrungkien/AreasImage-PhotoView.svg)](https://jitpack.io/#hantrungkien/AreasImage-PhotoView)
+
 Description
 ===========
 
@@ -89,7 +91,7 @@ Add it in your root build.gradle:
 	}
 
     dependencies {
-	        compile 'com.github.Lukle:ClickableAreasImages:v0.1'
+	        compile 'com.github.hantrungkien:AreasImage-PhotoView:v1.0'
 	}
 ```
 
