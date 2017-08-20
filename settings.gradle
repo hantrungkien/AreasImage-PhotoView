@@ -1,1 +1,1 @@
-include ':app', ':photoview', ':areasimage'
+include ':app', ':areasimage-photoview'

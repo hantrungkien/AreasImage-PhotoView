@@ -21,6 +21,6 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:25.3.1'
-    compile project(':areasimage')
+    compile project(':areasimage-photoview')
     compile 'com.bartoszlipinski:viewpropertyobjectanimator:1.4.5'
 }
