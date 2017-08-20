@@ -8,7 +8,7 @@ Description
 
 ClickableAreasImages is an android library that lets you define rectangular clickable areas in your images and associate different objects to it. The images are zoomable and orientation changes are also handled.
 
-<a><img src="./image/screenshot.jpg" width="200"></a>
+<a><img src="./images/demo_image.png" width="200"></a>
 
 Sample Usage
 ========
