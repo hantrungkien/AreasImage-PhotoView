@@ -99,10 +99,8 @@ Thanks to
 
 [PhotoView](https://github.com/chrisbanes/PhotoView), which serves as foundation for this library.
 
-License
+Contribution
 =======
-
-### Contribution
 
 If you've found an error, please file an issue.
 
