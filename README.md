@@ -91,7 +91,7 @@ Add it in your root build.gradle:
 	}
 
     dependencies {
-	        compile 'com.github.hantrungkien:AreasImage-PhotoView:v1.0'
+	        compile 'com.github.hantrungkien:AreasImage-PhotoView:v1.1'
 	}
 ```
 
