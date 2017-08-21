@@ -77,6 +77,24 @@ Sample Usage
 
         return clickableAreas;
     }
+    
+    public  class StateObj extends ClickableArea.State {
+
+    private String name;
+
+    public StateObj(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+  }
+
 }
 ```
 
