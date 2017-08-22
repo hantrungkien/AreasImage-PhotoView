@@ -61,7 +61,7 @@ Sample Usage
 
         List<ClickableArea> clickableAreas = new ArrayList<>();
 
-        // Plz using https://inkplant.com/tools/image-coordinates or Paint on the Window OS to define the coordinate
+        // Plz using http://getspritexy.com/ or Paint on the Window OS to define the coordinate
 
         clickableAreas.add(new ClickableArea(600, 100, 50, 50, new StateObj("Lower Austria")));
         clickableAreas.add(new ClickableArea(440, 125, 50, 50, new StateObj("Upper Austria")));
